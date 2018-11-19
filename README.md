@@ -1,1 +1,1 @@
-# Waht I learnt recently
+# What I learnt recently
