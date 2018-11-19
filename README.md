@@ -1,2 +1,1 @@
-# ajay
-Storing what I learnt recently
+# Waht I learnt recently
