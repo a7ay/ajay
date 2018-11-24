@@ -1,8 +1,9 @@
 # Basic HashMap
 
-Implemented using an Array & Linkedlist.
-A maximum of 100 slots allocated for storing data
+This datastrucuture is best for storing small amount of data that needs to be searched by a key
+Lookup time will Big 0 (n/x)  where n is total size and x is number of buckets. This assumes distribution of data is even.
 
+Top level array is initialized to number of buckets, and each bucket has a linked list.
 
 # Lessons Learnt
 ## keyword abstract is redundant in the snippet below
