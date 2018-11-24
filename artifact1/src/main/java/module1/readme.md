@@ -43,7 +43,7 @@ public  interface localAbstractMap<K,V> {
 }
 ```
 
-## inner classes are either be static or non-static. you are not allowed to create an array of non-static class. To workaround, treat non-static class as static by referring to them through the outer class. Learn more (https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
+## inner classes are either be static or non-static. you are not allowed to create an array of non-static class. To workaround, treat non-static class as static by referring to them through the outer class. Learn more: https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
 
 ```java
 public class localHashMap<K,V> implements localAbstractMap<K,V> {
